@@ -1,0 +1,989 @@
+2012-08-10 13:34:13,687 [main] DEBUG resolver.ResolverImp(line:209) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-08-10 13:34:13,937 [main] DEBUG resolver.ResolverImp(line:211) 250   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-08-10 13:34:13,968 [main] DEBUG resolver.ResolverImp(line:199) 281   - 9148909.549267.10008.epc.tnsroot.cn
+2012-08-10 13:34:13,984 [main] DEBUG resolver.ResolverImp(line:201) 297   - http://tnsroot.cn
+2012-08-10 13:34:13,984 [main] DEBUG test.TestResolver(line:22) 297   - http://tnsroot.cn
+2012-08-22 16:33:46,468 [main] DEBUG resolver.ResolverImp(line:219) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-08-22 16:33:46,515 [main] DEBUG resolver.NAPTRResolverImp(line:56) 47    - name65544.156.16.2.oid.tnsroot.cn
+2012-08-22 16:33:46,515 [main] DEBUG resolver.NAPTRResolverImp(line:57) 47    - addr218.241.108.59
+2012-08-22 16:33:47,062 [main] DEBUG resolver.ResolverImp(line:221) 594   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-08-22 16:33:47,078 [main] DEBUG resolver.ResolverImp(line:209) 610   - 9148909.549267.10008.epc.tnsroot.cn
+2012-08-22 16:33:47,078 [main] DEBUG resolver.NAPTRResolverImp(line:56) 610   - name9148909.549267.10008.epc.tnsroot.cn
+2012-08-22 16:33:47,078 [main] DEBUG resolver.NAPTRResolverImp(line:57) 610   - addr218.241.108.63
+2012-08-22 16:33:47,078 [main] DEBUG resolver.ResolverImp(line:211) 610   - http://tnsroot.cn
+2012-08-22 16:33:47,078 [main] DEBUG test.TestResolver(line:27) 610   - http://tnsroot.cn
+2012-08-30 16:29:49,382 [main] DEBUG resolver.ResolverImp(line:218) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-08-30 16:29:49,444 [main] DEBUG resolver.NAPTRResolverImp(line:56) 62    - name65544.156.16.2.oid.tnsroot.cn
+2012-08-30 16:29:49,444 [main] DEBUG resolver.NAPTRResolverImp(line:57) 62    - addr218.241.108.59
+2012-09-04 10:28:32,828 [main] DEBUG resolver.ResolverImp(line:218) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-04 10:28:32,875 [main] DEBUG resolver.NAPTRResolverImp(line:56) 47    - name65544.156.16.2.oid.tnsroot.cn
+2012-09-04 10:28:32,875 [main] DEBUG resolver.NAPTRResolverImp(line:57) 47    - addr218.241.108.59
+2012-09-04 17:00:30,328 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-04 17:00:30,390 [main] DEBUG resolver.NAPTRResolverImp(line:62) 62    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-04 17:00:30,390 [main] DEBUG resolver.NAPTRResolverImp(line:63) 62    - addr:218.241.108.59
+2012-09-04 17:00:30,390 [main] DEBUG resolver.NAPTRResolverImp(line:64) 62    - serviceType:ONS
+2012-09-04 17:00:30,468 [main] DEBUG resolver.ResolverImp(line:226) 140   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-04 17:00:30,484 [main] DEBUG resolver.ResolverImp(line:214) 156   - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-04 17:00:30,484 [main] DEBUG resolver.NAPTRResolverImp(line:62) 156   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-04 17:00:30,484 [main] DEBUG resolver.NAPTRResolverImp(line:63) 156   - addr:218.241.108.63
+2012-09-04 17:00:30,484 [main] DEBUG resolver.NAPTRResolverImp(line:64) 156   - serviceType:ONS
+2012-09-04 17:00:30,484 [main] DEBUG resolver.ResolverImp(line:149) 156   - tnsroot.cn6
+2012-09-04 17:00:30,484 [main] DEBUG resolver.ResolverImp(line:216) 156   - 
+2012-09-04 17:00:30,484 [main] DEBUG test.TestResolver(line:46) 156   - 
+2012-09-04 17:03:46,812 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-04 17:03:46,828 [main] DEBUG resolver.NAPTRResolverImp(line:62) 16    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-04 17:03:46,828 [main] DEBUG resolver.NAPTRResolverImp(line:63) 16    - addr:218.241.108.59
+2012-09-04 17:03:46,828 [main] DEBUG resolver.NAPTRResolverImp(line:64) 16    - serviceType:ONS
+2012-09-04 17:03:46,843 [main] DEBUG resolver.ResolverImp(line:226) 31    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-04 17:03:46,843 [main] DEBUG resolver.ResolverImp(line:214) 31    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-04 17:03:46,843 [main] DEBUG resolver.NAPTRResolverImp(line:62) 31    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-04 17:03:46,843 [main] DEBUG resolver.NAPTRResolverImp(line:63) 31    - addr:218.241.108.63
+2012-09-04 17:03:46,843 [main] DEBUG resolver.NAPTRResolverImp(line:64) 31    - serviceType:ONS
+2012-09-04 17:03:46,843 [main] DEBUG resolver.ResolverImp(line:149) 31    - tnsroot.cn7
+2012-09-04 17:03:46,843 [main] DEBUG resolver.ResolverImp(line:216) 31    - 
+2012-09-04 17:03:46,843 [main] DEBUG test.TestResolver(line:46) 31    - 
+2012-09-07 10:37:42,906 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 10:37:42,937 [main] DEBUG resolver.NAPTRResolverImp(line:66) 31    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 10:37:42,937 [main] DEBUG resolver.NAPTRResolverImp(line:67) 31    - addr:218.241.108.59
+2012-09-07 10:37:42,953 [main] DEBUG resolver.NAPTRResolverImp(line:68) 47    - serviceType:ONS
+2012-09-07 10:42:28,687 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 10:42:28,687 [main] DEBUG resolver.NAPTRResolverImp(line:66) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 10:42:28,687 [main] DEBUG resolver.NAPTRResolverImp(line:67) 0     - addr:218.241.108.59
+2012-09-07 10:42:28,687 [main] DEBUG resolver.NAPTRResolverImp(line:68) 0     - serviceType:ONS
+2012-09-07 11:14:11,484 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:14:11,484 [main] DEBUG resolver.NAPTRResolverImp(line:46) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:14:11,484 [main] DEBUG resolver.NAPTRResolverImp(line:47) 0     - addr:218.241.108.59
+2012-09-07 11:14:11,484 [main] DEBUG resolver.NAPTRResolverImp(line:48) 0     - serviceType:ONS
+2012-09-07 11:15:19,312 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:15:19,312 [main] DEBUG resolver.NAPTRResolverImp(line:46) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:15:19,312 [main] DEBUG resolver.NAPTRResolverImp(line:47) 0     - addr:218.241.108.59
+2012-09-07 11:15:19,312 [main] DEBUG resolver.NAPTRResolverImp(line:48) 0     - serviceType:ONS
+2012-09-07 11:19:22,859 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:19:22,859 [main] DEBUG resolver.NAPTRResolverImp(line:46) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:19:22,859 [main] DEBUG resolver.NAPTRResolverImp(line:47) 0     - addr:218.241.108.59
+2012-09-07 11:19:22,859 [main] DEBUG resolver.NAPTRResolverImp(line:48) 0     - serviceType:ONS
+2012-09-07 11:20:57,093 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:20:57,109 [main] DEBUG resolver.NAPTRResolverImp(line:46) 16    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:20:57,109 [main] DEBUG resolver.NAPTRResolverImp(line:47) 16    - addr:218.241.108.59
+2012-09-07 11:20:57,109 [main] DEBUG resolver.NAPTRResolverImp(line:48) 16    - serviceType:ONS
+2012-09-07 11:54:26,531 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:54:26,562 [main] DEBUG resolver.NAPTRResolverImp(line:46) 31    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 11:54:26,562 [main] DEBUG resolver.NAPTRResolverImp(line:47) 31    - addr:218.241.108.59
+2012-09-07 11:54:26,562 [main] DEBUG resolver.NAPTRResolverImp(line:48) 31    - serviceType:ONS
+2012-09-07 12:03:56,984 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 12:03:56,984 [main] DEBUG resolver.NAPTRResolverImp(line:46) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 12:03:56,984 [main] DEBUG resolver.NAPTRResolverImp(line:47) 0     - addr:218.241.108.59
+2012-09-07 12:03:56,984 [main] DEBUG resolver.NAPTRResolverImp(line:48) 0     - serviceType:ONS
+2012-09-07 12:27:39,890 [main] DEBUG resolver.ResolverImp(line:224) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 12:27:39,921 [main] DEBUG resolver.NAPTRResolverImp(line:49) 31    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 12:27:39,921 [main] DEBUG resolver.NAPTRResolverImp(line:50) 31    - addr:218.241.108.59
+2012-09-07 12:27:39,937 [main] DEBUG resolver.NAPTRResolverImp(line:51) 47    - serviceType:ONS
+2012-09-07 12:27:39,937 [main] DEBUG resolver.NAPTRResolverImp(line:81) 47    - 15 !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 12:27:39,937 [main] DEBUG resolver.ResolverImp(line:226) 47    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 12:27:39,953 [main] DEBUG resolver.ResolverImp(line:214) 63    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 12:27:39,953 [main] DEBUG resolver.NAPTRResolverImp(line:49) 63    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 12:27:39,953 [main] DEBUG resolver.NAPTRResolverImp(line:50) 63    - addr:218.241.108.63
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:51) 78    - serviceType:ONS
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn6
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn7
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 %21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn1
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn2
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn3
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn4
+2012-09-07 12:27:39,968 [main] DEBUG resolver.NAPTRResolverImp(line:81) 78    - 15 tnsroot.cn5
+2012-09-07 12:27:39,968 [main] DEBUG resolver.ResolverImp(line:149) 78    - tnsroot.cn3
+2012-09-07 12:27:39,968 [main] DEBUG resolver.ResolverImp(line:216) 78    - 
+2012-09-07 12:27:39,968 [main] DEBUG test.TestResolver(line:47) 78    - 
+2012-09-07 13:47:23,468 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 13:47:23,484 [main] DEBUG resolver.NAPTRResolverImp(line:50) 16    - addr:218.241.108.59
+2012-09-07 13:47:23,484 [main] DEBUG resolver.NAPTRResolverImp(line:51) 16    - serviceType:ONS
+2012-09-07 13:47:23,687 [main] DEBUG resolver.NAPTRResolverImp(line:81) 219   - 15 !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 13:47:23,687 [main] DEBUG resolver.NAPTRResolverImp(line:31) 219   - [65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 13:49:00,531 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 13:49:00,546 [main] DEBUG resolver.NAPTRResolverImp(line:50) 15    - addr:218.241.108.59
+2012-09-07 13:49:00,546 [main] DEBUG resolver.NAPTRResolverImp(line:51) 15    - serviceType:ONS
+2012-09-07 13:49:00,750 [main] DEBUG resolver.NAPTRResolverImp(line:81) 219   - TTL:15/nRegexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 13:49:00,750 [main] DEBUG resolver.NAPTRResolverImp(line:31) 219   - [65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 13:49:09,625 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 13:49:09,625 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.59
+2012-09-07 13:49:09,625 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 13:49:09,828 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 13:49:09,828 [main] DEBUG resolver.NAPTRResolverImp(line:31) 203   - [65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 13:53:24,515 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 13:53:24,515 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 13:53:24,515 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:81) 203   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 13:53:24,718 [main] DEBUG resolver.NAPTRResolverImp(line:28) 203   - [9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn5" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn1" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn2" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn3" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn4" .]
+2012-09-07 14:08:25,953 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:08:25,953 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 14:08:25,953 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 14:08:26,156 [main] DEBUG resolver.NAPTRResolverImp(line:78) 203   - before filtering:
+
+2012-09-07 14:08:26,156 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:08:26,156 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:89) 218   - before filtering:
+[]
+2012-09-07 14:08:26,171 [main] ERROR resolver.NAPTRResolverImp(line:93) 218   - happens in resolver_getNAPTRRecords method when get NAPTRRecods.
+	Host has none of the specified attributes [ONS] for the domain name [9148909.549267.10008.epc.tnsroot.cn]
+2012-09-07 14:08:26,171 [main] DEBUG resolver.NAPTRResolverImp(line:28) 218   - []
+2012-09-07 14:12:14,406 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:12:14,406 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 14:12:14,406 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:78) 219   - before filtering:
+
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:89) 219   - before filtering:
+[]
+2012-09-07 14:12:14,625 [main] ERROR resolver.NAPTRResolverImp(line:93) 219   - happens in resolver_getNAPTRRecords method when get NAPTRRecods.
+	Host has none of the specified attributes [ONS] for the domain name [9148909.549267.10008.epc.tnsroot.cn]
+2012-09-07 14:12:14,625 [main] DEBUG resolver.NAPTRResolverImp(line:28) 219   - []
+2012-09-07 14:12:48,875 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:12:48,890 [main] DEBUG resolver.NAPTRResolverImp(line:50) 15    - addr:218.241.108.63
+2012-09-07 14:12:48,890 [main] DEBUG resolver.NAPTRResolverImp(line:51) 15    - serviceType:ONS
+2012-09-07 14:14:09,406 [main] DEBUG resolver.NAPTRResolverImp(line:78) 80531  - before filtering:
+
+2012-09-07 14:14:48,734 [main] DEBUG resolver.NAPTRResolverImp(line:87) 119859  - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:14:50,781 [main] DEBUG resolver.NAPTRResolverImp(line:87) 121906  - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:14:55,515 [main] DEBUG resolver.NAPTRResolverImp(line:87) 126640  - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:14:59,718 [main] DEBUG resolver.NAPTRResolverImp(line:87) 130843  - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:15:01,187 [main] DEBUG resolver.NAPTRResolverImp(line:87) 132312  - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:17:13,343 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:17:13,343 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 14:17:13,343 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:78) 203   - before filtering:
+
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:89) 203   - before filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:17:13,546 [main] DEBUG resolver.NAPTRResolverImp(line:28) 203   - [9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:22:32,531 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:22:32,546 [main] DEBUG resolver.NAPTRResolverImp(line:50) 15    - addr:218.241.108.63
+2012-09-07 14:22:32,546 [main] DEBUG resolver.NAPTRResolverImp(line:51) 15    - serviceType:ONS
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:78) 219   - before filtering:
+
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:89) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" .]
+2012-09-07 14:22:32,750 [main] DEBUG resolver.NAPTRResolverImp(line:47) 219   - 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" .
+2012-09-07 14:22:54,453 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:22:54,453 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 14:22:54,453 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:78) 218   - before filtering:
+
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:87) 218   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:89) 218   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" .]
+2012-09-07 14:22:54,671 [main] DEBUG resolver.NAPTRResolverImp(line:47) 218   - 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .
+2012-09-07 14:22:59,421 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:22:59,421 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 14:22:59,421 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 14:22:59,625 [main] DEBUG resolver.NAPTRResolverImp(line:78) 204   - before filtering:
+
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:87) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:89) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:22:59,640 [main] DEBUG resolver.NAPTRResolverImp(line:47) 219   - 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" .
+2012-09-07 14:23:05,000 [main] DEBUG resolver.NAPTRResolverImp(line:49) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:23:05,000 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - addr:218.241.108.63
+2012-09-07 14:23:05,000 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - serviceType:ONS
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:78) 203   - before filtering:
+
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:87) 203   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:89) 203   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:23:05,203 [main] DEBUG resolver.NAPTRResolverImp(line:47) 203   - 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .
+2012-09-07 14:32:30,515 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:32:30,515 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - addr:218.241.108.63
+2012-09-07 14:32:30,515 [main] DEBUG resolver.NAPTRResolverImp(line:52) 0     - serviceType:ONS
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:79) 219   - before filtering:
+
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:88) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:90) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:32:30,734 [main] DEBUG resolver.NAPTRResolverImp(line:47) 219   - 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .
+2012-09-07 14:32:51,156 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:32:51,156 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:32:51,156 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - addr:218.241.108.59
+2012-09-07 14:32:51,156 [main] DEBUG resolver.NAPTRResolverImp(line:52) 0     - serviceType:ONS
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:79) 15    - before filtering:
+
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:90) 15    - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 14:32:51,171 [main] DEBUG resolver.ResolverImp(line:245) 15    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:32:51,171 [main] DEBUG resolver.ResolverImp(line:233) 15    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:50) 15    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:51) 15    - addr:218.241.108.63
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:52) 15    - serviceType:ONS
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:79) 15    - before filtering:
+
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:32:51,171 [main] DEBUG resolver.NAPTRResolverImp(line:90) 15    - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:32:51,171 [main] DEBUG resolver.ResolverImp(line:159) 15    - tnsroot.cn7
+2012-09-07 14:32:51,171 [main] DEBUG resolver.ResolverImp(line:235) 15    - 
+2012-09-07 14:32:51,171 [main] DEBUG test.TestResolver(line:47) 15    - 
+2012-09-07 14:36:12,984 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:12,984 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:12,984 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - addr:218.241.108.59
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:52) 16    - serviceType:ONS
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:79) 16    - before filtering:
+
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:90) 16    - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 14:36:13,000 [main] DEBUG resolver.ResolverImp(line:245) 16    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:13,000 [main] DEBUG resolver.ResolverImp(line:233) 16    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:50) 16    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:51) 16    - addr:218.241.108.63
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:52) 16    - serviceType:ONS
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:79) 16    - before filtering:
+
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn1
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn2
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn3
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn4
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn5
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn6
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexptnsroot.cn7
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:36:13,000 [main] DEBUG resolver.NAPTRResolverImp(line:90) 16    - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:36:13,000 [main] DEBUG resolver.ResolverImp(line:159) 16    - tnsroot.cn6
+2012-09-07 14:36:13,000 [main] DEBUG resolver.ResolverImp(line:235) 16    - 
+2012-09-07 14:36:13,000 [main] DEBUG test.TestResolver(line:47) 16    - 
+2012-09-07 14:36:16,453 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:16,468 [main] DEBUG resolver.NAPTRResolverImp(line:50) 15    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:16,468 [main] DEBUG resolver.NAPTRResolverImp(line:51) 15    - addr:218.241.108.59
+2012-09-07 14:36:16,468 [main] DEBUG resolver.NAPTRResolverImp(line:52) 15    - serviceType:ONS
+2012-09-07 14:36:16,468 [main] DEBUG resolver.NAPTRResolverImp(line:79) 15    - before filtering:
+
+2012-09-07 14:36:16,468 [main] DEBUG resolver.NAPTRResolverImp(line:88) 15    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:16,468 [main] DEBUG resolver.NAPTRResolverImp(line:90) 15    - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 14:36:16,468 [main] DEBUG resolver.ResolverImp(line:245) 15    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:16,484 [main] DEBUG resolver.ResolverImp(line:233) 31    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:50) 31    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:51) 31    - addr:218.241.108.63
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:52) 31    - serviceType:ONS
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:79) 31    - before filtering:
+
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn1
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn2
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn3
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn4
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn5
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn6
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexptnsroot.cn7
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:88) 31    - TTL:12
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:36:16,484 [main] DEBUG resolver.NAPTRResolverImp(line:90) 31    - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	12	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	12	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	12	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:36:16,484 [main] DEBUG resolver.ResolverImp(line:159) 31    - tnsroot.cn7
+2012-09-07 14:36:16,484 [main] DEBUG resolver.ResolverImp(line:235) 31    - 
+2012-09-07 14:36:16,484 [main] DEBUG test.TestResolver(line:47) 31    - 
+2012-09-07 14:36:18,765 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:18,765 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:18,765 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - addr:218.241.108.59
+2012-09-07 14:36:18,765 [main] DEBUG resolver.NAPTRResolverImp(line:52) 0     - serviceType:ONS
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:79) 16    - before filtering:
+
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:90) 16    - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 14:36:18,781 [main] DEBUG resolver.ResolverImp(line:245) 16    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:18,781 [main] DEBUG resolver.ResolverImp(line:233) 16    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:50) 16    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:51) 16    - addr:218.241.108.63
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:52) 16    - serviceType:ONS
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:79) 16    - before filtering:
+
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn1
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn2
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn3
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn4
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn5
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn6
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexptnsroot.cn7
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:10
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:36:18,781 [main] DEBUG resolver.NAPTRResolverImp(line:90) 16    - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	10	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	10	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	10	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:36:18,781 [main] DEBUG resolver.ResolverImp(line:159) 16    - tnsroot.cn6
+2012-09-07 14:36:18,781 [main] DEBUG resolver.ResolverImp(line:235) 16    - 
+2012-09-07 14:36:18,781 [main] DEBUG test.TestResolver(line:47) 16    - 
+2012-09-07 14:36:20,734 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:20,734 [main] DEBUG resolver.NAPTRResolverImp(line:50) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-07 14:36:20,734 [main] DEBUG resolver.NAPTRResolverImp(line:51) 0     - addr:218.241.108.59
+2012-09-07 14:36:20,734 [main] DEBUG resolver.NAPTRResolverImp(line:52) 0     - serviceType:ONS
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:79) 16    - before filtering:
+
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:90) 16    - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-07 14:36:20,750 [main] DEBUG resolver.ResolverImp(line:245) 16    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-07 14:36:20,750 [main] DEBUG resolver.ResolverImp(line:233) 16    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:50) 16    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:51) 16    - addr:218.241.108.63
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:52) 16    - serviceType:ONS
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:79) 16    - before filtering:
+
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn1
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn2
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn3
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn4
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn5
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn6
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexptnsroot.cn7
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:88) 16    - TTL:8
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-07 14:36:20,750 [main] DEBUG resolver.NAPTRResolverImp(line:90) 16    - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	8	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	8	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	8	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-07 14:36:20,750 [main] DEBUG resolver.ResolverImp(line:159) 16    - !^.*$!http://tnsroot.cn!
+2012-09-07 14:36:20,765 [main] DEBUG resolver.ResolverImp(line:235) 31    - http://tnsroot.cn
+2012-09-07 14:36:20,765 [main] DEBUG test.TestResolver(line:47) 31    - http://tnsroot.cn
+2012-09-18 11:15:49,440 [main] DEBUG resolver.NAPTRResolverImp(line:57) 0     - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 11:15:49,471 [main] DEBUG resolver.NAPTRResolverImp(line:58) 31    - addr:218.241.108.63
+2012-09-18 11:15:49,471 [main] DEBUG resolver.NAPTRResolverImp(line:59) 31    - serviceType:ONS
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:86) 515   - before filtering:
+
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn5
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn6
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn7
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn1
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn2
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn3
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:95) 515   - TTL:15
+Regexptnsroot.cn4
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:97) 515   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-18 11:15:49,955 [main] DEBUG resolver.NAPTRResolverImp(line:47) 515   - 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" .
+2012-09-18 12:13:25,502 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-18 12:13:25,549 [main] DEBUG resolver.NAPTRResolverImp(line:57) 47    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-18 12:13:25,549 [main] DEBUG resolver.NAPTRResolverImp(line:58) 47    - addr:218.241.108.59
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:59) 63    - serviceType:ONS
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:86) 63    - before filtering:
+
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:97) 63    - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-18 12:13:25,565 [main] DEBUG resolver.ResolverImp(line:245) 63    - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-18 12:13:25,565 [main] DEBUG resolver.ResolverImp(line:233) 63    - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:57) 63    - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:58) 63    - addr:218.241.108.63
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:59) 63    - serviceType:ONS
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:86) 63    - before filtering:
+
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexptnsroot.cn3
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexptnsroot.cn4
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexptnsroot.cn5
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexptnsroot.cn6
+2012-09-18 12:13:25,565 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexptnsroot.cn7
+2012-09-18 12:13:25,580 [main] DEBUG resolver.NAPTRResolverImp(line:95) 78    - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-18 12:13:25,580 [main] DEBUG resolver.NAPTRResolverImp(line:95) 78    - TTL:15
+Regexptnsroot.cn1
+2012-09-18 12:13:25,580 [main] DEBUG resolver.NAPTRResolverImp(line:95) 78    - TTL:15
+Regexptnsroot.cn2
+2012-09-18 12:13:25,580 [main] DEBUG resolver.NAPTRResolverImp(line:97) 78    - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn6" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "tnsroot.cn7" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-09-18 12:13:25,580 [main] DEBUG resolver.ResolverImp(line:159) 78    - tnsroot.cn6
+2012-09-18 12:13:25,580 [main] DEBUG resolver.ResolverImp(line:235) 78    - 
+2012-09-18 12:13:25,580 [main] DEBUG test.TestResolver(line:47) 78    - 
+2012-09-18 13:04:18,471 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-18 13:04:18,471 [main] DEBUG resolver.NAPTRResolverImp(line:57) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-18 13:04:18,471 [main] DEBUG resolver.NAPTRResolverImp(line:58) 0     - addr:218.241.108.59
+2012-09-18 13:04:18,487 [main] DEBUG resolver.NAPTRResolverImp(line:59) 16    - serviceType:ONS
+2012-09-18 13:04:18,674 [main] DEBUG resolver.NAPTRResolverImp(line:86) 203   - before filtering:
+
+2012-09-18 13:04:18,674 [main] DEBUG resolver.NAPTRResolverImp(line:95) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-18 13:04:18,674 [main] DEBUG resolver.NAPTRResolverImp(line:97) 203   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-18 13:04:18,690 [main] DEBUG resolver.ResolverImp(line:245) 219   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-18 13:04:18,690 [main] DEBUG resolver.FindResolver(line:57) 219   - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:57) 219   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:58) 219   - addr:218.241.108.63
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:59) 219   - serviceType:DS
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:86) 219   - before filtering:
+
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-18 13:04:18,690 [main] DEBUG resolver.NAPTRResolverImp(line:97) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn3" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn4" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn5" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn1" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn2" .]
+2012-09-18 13:04:18,690 [main] DEBUG resolver.FindResolver(line:86) 219   - [tnsroot.cn3, tnsroot.cn4, tnsroot.cn5, tnsroot.cn1, tnsroot.cn2]
+2012-09-18 13:04:33,627 [main] DEBUG resolver.ResolverImp(line:243) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-18 13:04:33,627 [main] DEBUG resolver.NAPTRResolverImp(line:57) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-18 13:04:33,627 [main] DEBUG resolver.NAPTRResolverImp(line:58) 0     - addr:218.241.108.59
+2012-09-18 13:04:33,627 [main] DEBUG resolver.NAPTRResolverImp(line:59) 0     - serviceType:ONS
+2012-09-18 13:04:33,830 [main] DEBUG resolver.NAPTRResolverImp(line:86) 203   - before filtering:
+
+2012-09-18 13:04:33,830 [main] DEBUG resolver.NAPTRResolverImp(line:95) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-18 13:04:33,830 [main] DEBUG resolver.NAPTRResolverImp(line:97) 203   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-18 13:04:33,830 [main] DEBUG resolver.ResolverImp(line:245) 203   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-18 13:04:33,846 [main] DEBUG resolver.FindResolver(line:57) 219   - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:57) 219   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:58) 219   - addr:218.241.108.63
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:59) 219   - serviceType:DS
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:86) 219   - before filtering:
+
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-18 13:04:33,846 [main] DEBUG resolver.NAPTRResolverImp(line:97) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn2" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn3" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn4" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn5" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn1" .]
+2012-09-18 13:04:33,846 [main] DEBUG resolver.FindResolver(line:86) 219   - [tnsroot.cn2, tnsroot.cn3, tnsroot.cn4, tnsroot.cn5, tnsroot.cn1]
+2012-09-19 11:12:31,875 [main] DEBUG resolver.ResolverImp(line:261) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-19 11:12:31,890 [main] DEBUG resolver.NAPTRResolverImp(line:57) 15    - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-19 11:12:31,890 [main] DEBUG resolver.NAPTRResolverImp(line:58) 15    - addr:218.241.108.59
+2012-09-19 11:12:31,890 [main] DEBUG resolver.NAPTRResolverImp(line:59) 15    - serviceType:ONS
+2012-09-19 11:12:32,171 [main] DEBUG resolver.NAPTRResolverImp(line:86) 296   - before filtering:
+
+2012-09-19 11:12:32,171 [main] DEBUG resolver.NAPTRResolverImp(line:95) 296   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-19 11:12:32,171 [main] DEBUG resolver.NAPTRResolverImp(line:97) 296   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-19 11:12:32,187 [main] DEBUG resolver.ResolverImp(line:263) 312   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1348024352202
+2012-09-19 11:12:32,187 [main] DEBUG resolver.FindResolver(line:61) 312   - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:57) 312   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:58) 312   - addr:218.241.108.63
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:59) 312   - serviceType:DS
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:86) 312   - before filtering:
+
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn1
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn2
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn3
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn4
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn5
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn6
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexptnsroot.cn7
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:95) 312   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-19 11:12:32,187 [main] DEBUG resolver.NAPTRResolverImp(line:97) 312   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn1" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn2" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn3" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn4" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn5" .]
+2012-09-19 11:12:32,187 [main] DEBUG resolver.FindResolver(line:91) 312   - [tnsroot.cn1, tnsroot.cn2, tnsroot.cn3, tnsroot.cn4, tnsroot.cn5]
+2012-09-19 13:40:35,671 [main] DEBUG resolver.ResolverImp(line:261) 0     - 65540.156.16.2.oid.tnsroot.cn
+2012-09-19 13:40:35,718 [main] DEBUG resolver.NAPTRResolverImp(line:57) 47    - name:65540.156.16.2.oid.tnsroot.cn
+2012-09-19 13:40:35,718 [main] DEBUG resolver.NAPTRResolverImp(line:58) 47    - addr:218.241.108.59
+2012-09-19 13:40:35,718 [main] DEBUG resolver.NAPTRResolverImp(line:59) 47    - serviceType:ONS
+2012-09-19 13:40:35,734 [main] DEBUG resolver.NAPTRResolverImp(line:86) 63    - before filtering:
+
+2012-09-19 13:40:35,734 [main] DEBUG resolver.NAPTRResolverImp(line:95) 63    - TTL:15
+Regexp!^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn!
+2012-09-19 13:40:35,734 [main] DEBUG resolver.NAPTRResolverImp(line:97) 63    - after filtering:
+[65540.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn!" .]
+2012-09-19 13:40:35,734 [main] DEBUG resolver.ResolverImp(line:263) 63    - !^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn! 1348033235749
+2012-09-19 13:40:35,734 [main] DEBUG resolver.ResolverImp(line:253) 63    - 1.123456.6901234.10004.epc.tnsroot.cn
+2012-09-19 13:40:35,750 [main] DEBUG test.TestResolver(line:51) 79    - 1.123456.6901234.10004.epc.tnsroot.cn
+2012-09-19 13:40:35,750 [main] DEBUG resolver.ResolverImp(line:261) 79    - 65546.156.16.2.oid.tnsroot.cn
+2012-09-19 13:40:35,750 [main] DEBUG resolver.NAPTRResolverImp(line:57) 79    - name:65546.156.16.2.oid.tnsroot.cn
+2012-09-19 13:40:35,750 [main] DEBUG resolver.NAPTRResolverImp(line:58) 79    - addr:218.241.108.59
+2012-09-19 13:40:35,750 [main] DEBUG resolver.NAPTRResolverImp(line:59) 79    - serviceType:ONS
+2012-09-19 13:40:35,750 [main] DEBUG resolver.NAPTRResolverImp(line:86) 79    - before filtering:
+
+2012-09-19 13:40:35,750 [main] DEBUG resolver.NAPTRResolverImp(line:95) 79    - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn!
+2012-09-19 13:40:35,750 [main] DEBUG resolver.NAPTRResolverImp(line:97) 79    - after filtering:
+[65546.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn!" .]
+2012-09-19 13:40:35,750 [main] DEBUG resolver.ResolverImp(line:263) 79    - !^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn! 1348033235765
+2012-09-19 13:40:35,750 [main] DEBUG resolver.ResolverImp(line:253) 79    - 6430029.524959.10010.epc.tnsroot.cn
+2012-09-19 13:40:35,750 [main] DEBUG test.TestResolver(line:55) 79    - 6430029.524959.10010.epc.tnsroot.cn
+2012-09-19 13:41:26,437 [main] DEBUG resolver.ResolverImp(line:261) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-09-19 13:41:26,437 [main] DEBUG resolver.NAPTRResolverImp(line:57) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-09-19 13:41:26,437 [main] DEBUG resolver.NAPTRResolverImp(line:58) 0     - addr:218.241.108.59
+2012-09-19 13:41:26,437 [main] DEBUG resolver.NAPTRResolverImp(line:59) 0     - serviceType:ONS
+2012-09-19 13:41:26,640 [main] DEBUG resolver.NAPTRResolverImp(line:86) 203   - before filtering:
+
+2012-09-19 13:41:26,640 [main] DEBUG resolver.NAPTRResolverImp(line:95) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-09-19 13:41:26,640 [main] DEBUG resolver.NAPTRResolverImp(line:97) 203   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-09-19 13:41:26,656 [main] DEBUG resolver.ResolverImp(line:263) 219   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1348033286671
+2012-09-19 13:41:26,656 [main] DEBUG resolver.FindResolver(line:61) 219   - 9148909.549267.10008.epc.tnsroot.cn
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:57) 219   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:58) 219   - addr:218.241.108.63
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:59) 219   - serviceType:DS
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:86) 219   - before filtering:
+
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn5
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn6
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn7
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn1
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn2
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn3
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:95) 219   - TTL:15
+Regexptnsroot.cn4
+2012-09-19 13:41:26,656 [main] DEBUG resolver.NAPTRResolverImp(line:97) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn5" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn1" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn2" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn3" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn4" .]
+2012-09-19 13:41:26,656 [main] DEBUG resolver.FindResolver(line:91) 219   - [tnsroot.cn5, tnsroot.cn1, tnsroot.cn2, tnsroot.cn3, tnsroot.cn4]
+2012-10-17 14:36:03,801 [main] DEBUG resolver.ResolverImp(line:274) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-10-17 14:36:03,942 [main] DEBUG resolver.NAPTRResolverImp(line:60) 141   - name:65544.156.16.2.oid.tnsroot.cn
+2012-10-17 14:36:03,942 [main] DEBUG resolver.NAPTRResolverImp(line:61) 141   - addr:218.241.108.59
+2012-10-17 14:36:04,035 [main] DEBUG resolver.NAPTRResolverImp(line:62) 234   - serviceType:ONS
+2012-10-17 14:36:07,379 [main] DEBUG resolver.NAPTRResolverImp(line:89) 3578  - before filtering:
+
+2012-10-17 14:36:07,379 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3578  - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-10-17 14:36:07,379 [main] DEBUG resolver.NAPTRResolverImp(line:100) 3578  - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-10-17 14:36:07,379 [main] DEBUG resolver.ResolverImp(line:234) 3578  - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350455767394
+2012-10-17 14:36:07,379 [main] DEBUG resolver.ResolverImp(line:277) 3578  - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350455767394
+2012-10-17 14:36:07,395 [main] DEBUG resolver.FindResolver(line:87) 3594  - 9148909.549267.10008.epc.tnsroot.cn
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:60) 3609  - name:9148909.549267.10008.epc.tnsroot.cn
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:61) 3609  - addr:218.241.108.63
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:62) 3609  - serviceType:DS
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:89) 3609  - before filtering:
+
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn5
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn6
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn7
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn1
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn2
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn3
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:98) 3609  - TTL:15
+Regexptnsroot.cn4
+2012-10-17 14:36:07,410 [main] DEBUG resolver.NAPTRResolverImp(line:100) 3609  - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn5" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn1" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn2" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn3" ., 9148909.549267.10008.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "DS" "tnsroot.cn4" .]
+2012-10-17 14:36:07,410 [main] DEBUG test.TestExtendResolver(line:28) 3609  - [tnsroot.cn5, tnsroot.cn1, tnsroot.cn2, tnsroot.cn3, tnsroot.cn4]
+2012-10-19 10:06:33,203 [main] DEBUG resolver.ResolverImp(line:288) 0     - 65546.156.16.2.oid.tnsroot.cn
+2012-10-19 10:06:33,234 [main] DEBUG resolver.NAPTRResolverImp(line:69) 31    - name:65546.156.16.2.oid.tnsroot.cn
+2012-10-19 10:06:33,234 [main] DEBUG resolver.NAPTRResolverImp(line:70) 31    - addr:218.241.108.59
+2012-10-19 10:06:33,234 [main] DEBUG resolver.NAPTRResolverImp(line:71) 31    - serviceType:ONS
+2012-10-19 10:06:33,968 [main] DEBUG resolver.NAPTRResolverImp(line:98) 765   - before filtering:
+
+2012-10-19 10:06:33,984 [main] DEBUG resolver.NAPTRResolverImp(line:107) 781   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn!
+2012-10-19 10:06:33,984 [main] DEBUG resolver.NAPTRResolverImp(line:109) 781   - after filtering:
+[65546.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn!" .]
+2012-10-19 10:06:33,984 [main] DEBUG resolver.ResolverImp(line:241) 781   - !^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn! 1350612393999
+2012-10-19 10:06:33,984 [main] DEBUG resolver.ResolverImp(line:291) 781   - !^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn! 1350612393999
+2012-10-19 10:06:34,000 [main] DEBUG resolver.ResolverImp(line:259) 797   - 6430029.524959.10010.epc.tnsroot.cn
+2012-10-19 10:06:34,000 [main] DEBUG resolver.NAPTRResolverImp(line:69) 797   - name:6430029.524959.10010.epc.tnsroot.cn
+2012-10-19 10:06:34,000 [main] DEBUG resolver.NAPTRResolverImp(line:70) 797   - addr:218.241.108.63
+2012-10-19 10:06:34,000 [main] DEBUG resolver.NAPTRResolverImp(line:71) 797   - serviceType:ONS
+2012-10-19 10:06:34,000 [main] DEBUG resolver.NAPTRResolverImp(line:98) 797   - before filtering:
+
+2012-10-19 10:06:34,000 [main] DEBUG resolver.NAPTRResolverImp(line:107) 797   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-10-19 10:06:34,000 [main] DEBUG resolver.NAPTRResolverImp(line:109) 797   - after filtering:
+[6430029.524959.10010.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-10-19 10:06:34,015 [main] DEBUG resolver.ResolverImp(line:172) 812   - !^.*$!http://tnsroot.cn!
+2012-10-19 10:06:34,015 [main] DEBUG resolver.ResolverImp(line:263) 812   - http://tnsroot.cn 1350612393999
+2012-10-19 10:07:35,906 [main] DEBUG resolver.ResolverImp(line:288) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:07:35,906 [main] DEBUG resolver.NAPTRResolverImp(line:69) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:07:35,906 [main] DEBUG resolver.NAPTRResolverImp(line:70) 0     - addr:218.241.108.59
+2012-10-19 10:07:35,906 [main] DEBUG resolver.NAPTRResolverImp(line:71) 0     - serviceType:ONS
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:98) 203   - before filtering:
+
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:107) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:109) 203   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-10-19 10:07:36,109 [main] DEBUG resolver.ResolverImp(line:241) 203   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350612456124
+2012-10-19 10:07:36,109 [main] DEBUG resolver.ResolverImp(line:291) 203   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350612456124
+2012-10-19 10:07:36,109 [main] DEBUG resolver.FindResolver(line:92) 203   - 9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:69) 203   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:70) 203   - addr:218.241.108.63
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:71) 203   - serviceType:DS
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:98) 203   - before filtering:
+
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:107) 203   - TTL:36000
+Regexp%21%5E.*%24%21http%3A%2F%2Fwww.baidu.com%21
+2012-10-19 10:07:36,109 [main] DEBUG resolver.NAPTRResolverImp(line:109) 203   - after filtering:
+[]
+2012-10-19 10:07:36,109 [main] ERROR resolver.NAPTRResolverImp(line:113) 203   - happens in resolver_getNAPTRRecords method when get NAPTRRecods.
+	Host has none of the specified attributes [DS] for the domain name [9148909.549267.10008.epc.tnsroot.cn]
+2012-10-19 10:07:36,125 [main] DEBUG test.TestExtendResolver(line:28) 219   - []
+2012-10-19 10:09:02,125 [main] DEBUG resolver.ResolverImp(line:288) 0     - 65546.156.16.2.oid.tnsroot.cn
+2012-10-19 10:09:02,125 [main] DEBUG resolver.NAPTRResolverImp(line:69) 0     - name:65546.156.16.2.oid.tnsroot.cn
+2012-10-19 10:09:02,125 [main] DEBUG resolver.NAPTRResolverImp(line:70) 0     - addr:218.241.108.59
+2012-10-19 10:09:02,125 [main] DEBUG resolver.NAPTRResolverImp(line:71) 0     - serviceType:ONS
+2012-10-19 10:09:02,328 [main] DEBUG resolver.NAPTRResolverImp(line:98) 203   - before filtering:
+
+2012-10-19 10:09:02,328 [main] DEBUG resolver.NAPTRResolverImp(line:107) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn!
+2012-10-19 10:09:02,328 [main] DEBUG resolver.NAPTRResolverImp(line:109) 203   - after filtering:
+[65546.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn!" .]
+2012-10-19 10:09:02,328 [main] DEBUG resolver.ResolverImp(line:241) 203   - !^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn! 1350612542343
+2012-10-19 10:09:02,328 [main] DEBUG resolver.ResolverImp(line:291) 203   - !^.{8}.{8}.{4}(.{20})(.{24}).{32}!$2.$1.10010.epc.tnsroot.cn! 1350612542343
+2012-10-19 10:09:02,328 [main] DEBUG resolver.ResolverImp(line:259) 203   - 6430029.524959.10010.epc.tnsroot.cn
+2012-10-19 10:09:02,328 [main] DEBUG resolver.NAPTRResolverImp(line:69) 203   - name:6430029.524959.10010.epc.tnsroot.cn
+2012-10-19 10:09:02,328 [main] DEBUG resolver.NAPTRResolverImp(line:70) 203   - addr:218.241.108.63
+2012-10-19 10:09:02,328 [main] DEBUG resolver.NAPTRResolverImp(line:71) 203   - serviceType:ONS
+2012-10-19 10:09:02,343 [main] DEBUG resolver.NAPTRResolverImp(line:98) 218   - before filtering:
+
+2012-10-19 10:09:02,343 [main] DEBUG resolver.NAPTRResolverImp(line:107) 218   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-10-19 10:09:02,343 [main] DEBUG resolver.NAPTRResolverImp(line:109) 218   - after filtering:
+[6430029.524959.10010.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-10-19 10:09:02,343 [main] DEBUG resolver.ResolverImp(line:172) 218   - !^.*$!http://tnsroot.cn!
+2012-10-19 10:09:02,343 [main] DEBUG resolver.ResolverImp(line:263) 218   - http://tnsroot.cn 1350612542343
+2012-10-19 10:13:45,562 [main] DEBUG resolver.ResolverImp(line:288) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:13:45,578 [main] DEBUG resolver.NAPTRResolverImp(line:69) 16    - name:65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:13:45,578 [main] DEBUG resolver.NAPTRResolverImp(line:70) 16    - addr:218.241.108.59
+2012-10-19 10:13:45,578 [main] DEBUG resolver.NAPTRResolverImp(line:71) 16    - serviceType:ONS
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:98) 219   - before filtering:
+
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:107) 219   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:109) 219   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-10-19 10:13:45,781 [main] DEBUG resolver.ResolverImp(line:241) 219   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350612825796
+2012-10-19 10:13:45,781 [main] DEBUG resolver.ResolverImp(line:291) 219   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350612825796
+2012-10-19 10:13:45,781 [main] DEBUG resolver.ResolverImp(line:259) 219   - 9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:69) 219   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:70) 219   - addr:218.241.108.63
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:71) 219   - serviceType:ONS
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:98) 219   - before filtering:
+
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:107) 219   - TTL:36000
+Regexp%21%5E.*%24%21http%3A%2F%2Fwww.baidu.com%21
+2012-10-19 10:13:45,781 [main] DEBUG resolver.NAPTRResolverImp(line:109) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	36000	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Fwww.baidu.com%21" .]
+2012-10-19 10:13:45,796 [main] DEBUG resolver.ResolverImp(line:172) 234   - !^.*$!http://www.baidu.com!
+2012-10-19 10:13:45,796 [main] DEBUG resolver.ResolverImp(line:263) 234   - http://www.baidu.com 1350612825796
+2012-10-19 10:17:47,593 [main] DEBUG resolver.ResolverImp(line:288) 0     - 65540.156.16.2.oid.tnsroot.cn
+2012-10-19 10:17:47,593 [main] DEBUG resolver.NAPTRResolverImp(line:69) 0     - name:65540.156.16.2.oid.tnsroot.cn
+2012-10-19 10:17:47,593 [main] DEBUG resolver.NAPTRResolverImp(line:70) 0     - addr:218.241.108.59
+2012-10-19 10:17:47,593 [main] DEBUG resolver.NAPTRResolverImp(line:71) 0     - serviceType:ONS
+2012-10-19 10:17:47,796 [main] DEBUG resolver.NAPTRResolverImp(line:98) 203   - before filtering:
+
+2012-10-19 10:17:47,796 [main] DEBUG resolver.NAPTRResolverImp(line:107) 203   - TTL:15
+Regexp!^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn!
+2012-10-19 10:17:47,796 [main] DEBUG resolver.NAPTRResolverImp(line:109) 203   - after filtering:
+[65540.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn!" .]
+2012-10-19 10:17:47,796 [main] DEBUG resolver.ResolverImp(line:241) 203   - !^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn! 1350613067811
+2012-10-19 10:17:47,796 [main] DEBUG resolver.ResolverImp(line:291) 203   - !^.{8}.{3}.{3}(.{24})(.{20})(.{38})!$3.$2.$1.10004.epc.tnsroot.cn! 1350613067811
+2012-10-19 10:17:47,796 [main] DEBUG resolver.ResolverImp(line:259) 203   - 1.123456.6901234.10004.epc.tnsroot.cn
+2012-10-19 10:17:47,796 [main] DEBUG resolver.NAPTRResolverImp(line:69) 203   - name:1.123456.6901234.10004.epc.tnsroot.cn
+2012-10-19 10:17:47,796 [main] DEBUG resolver.NAPTRResolverImp(line:70) 203   - addr:218.241.108.63
+2012-10-19 10:17:47,796 [main] DEBUG resolver.NAPTRResolverImp(line:71) 203   - serviceType:ONS
+2012-10-19 10:17:47,812 [main] DEBUG resolver.NAPTRResolverImp(line:98) 219   - before filtering:
+
+2012-10-19 10:17:47,812 [main] DEBUG resolver.NAPTRResolverImp(line:107) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-10-19 10:17:47,812 [main] DEBUG resolver.NAPTRResolverImp(line:109) 219   - after filtering:
+[1.123456.6901234.10004.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-10-19 10:17:47,812 [main] DEBUG resolver.ResolverImp(line:172) 219   - !^.*$!http://tnsroot.cn!
+2012-10-19 10:17:47,812 [main] DEBUG resolver.ResolverImp(line:263) 219   - http://tnsroot.cn 1350613067811
+2012-10-19 10:21:06,906 [main] DEBUG resolver.ResolverImp(line:288) 0     - 65542.156.16.2.oid.tnsroot.cn
+2012-10-19 10:21:06,906 [main] DEBUG resolver.NAPTRResolverImp(line:69) 0     - name:65542.156.16.2.oid.tnsroot.cn
+2012-10-19 10:21:06,906 [main] DEBUG resolver.NAPTRResolverImp(line:70) 0     - addr:218.241.108.59
+2012-10-19 10:21:06,921 [main] DEBUG resolver.NAPTRResolverImp(line:71) 15    - serviceType:ONS
+2012-10-19 10:21:07,109 [main] DEBUG resolver.NAPTRResolverImp(line:98) 203   - before filtering:
+
+2012-10-19 10:21:07,109 [main] DEBUG resolver.NAPTRResolverImp(line:107) 203   - TTL:15
+Regexp!^.{34}(.{47})(.{54})(.{72})!$3.$2.$1.10006.epc.tnsroot.cn!
+2012-10-19 10:21:07,109 [main] DEBUG resolver.NAPTRResolverImp(line:109) 203   - after filtering:
+[65542.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "!^.{34}(.{47})(.{54})(.{72})!$3.$2.$1.10006.epc.tnsroot.cn!" .]
+2012-10-19 10:21:07,125 [main] DEBUG resolver.ResolverImp(line:241) 219   - !^.{34}(.{47})(.{54})(.{72})!$3.$2.$1.10006.epc.tnsroot.cn! 1350613267140
+2012-10-19 10:21:07,125 [main] DEBUG resolver.ResolverImp(line:291) 219   - !^.{34}(.{47})(.{54})(.{72})!$3.$2.$1.10006.epc.tnsroot.cn! 1350613267140
+2012-10-19 10:21:07,125 [main] DEBUG resolver.ResolverImp(line:259) 219   - 1000000000000100712.8280000000011839.82800000005876.10006.epc.tnsroot.cn
+2012-10-19 10:21:07,125 [main] DEBUG resolver.NAPTRResolverImp(line:69) 219   - name:1000000000000100712.8280000000011839.82800000005876.10006.epc.tnsroot.cn
+2012-10-19 10:21:07,125 [main] DEBUG resolver.NAPTRResolverImp(line:70) 219   - addr:218.241.108.63
+2012-10-19 10:21:07,125 [main] DEBUG resolver.NAPTRResolverImp(line:71) 219   - serviceType:ONS
+2012-10-19 10:21:07,125 [main] DEBUG resolver.NAPTRResolverImp(line:98) 219   - before filtering:
+
+2012-10-19 10:21:07,125 [main] DEBUG resolver.NAPTRResolverImp(line:107) 219   - TTL:15
+Regexp%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21
+2012-10-19 10:21:07,125 [main] DEBUG resolver.NAPTRResolverImp(line:109) 219   - after filtering:
+[1000000000000100712.8280000000011839.82800000005876.10006.epc.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "ONS" "%21%5E.*%24%21http%3A%2F%2Ftnsroot.cn%21" .]
+2012-10-19 10:21:07,125 [main] DEBUG resolver.ResolverImp(line:172) 219   - !^.*$!http://tnsroot.cn!
+2012-10-19 10:21:07,125 [main] DEBUG resolver.ResolverImp(line:263) 219   - http://tnsroot.cn 1350613267140
+2012-10-19 10:47:55,546 [main] DEBUG resolver.ResolverImp(line:293) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:47:55,546 [main] DEBUG resolver.NAPTRResolverImp(line:69) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:47:55,546 [main] DEBUG resolver.NAPTRResolverImp(line:70) 0     - addr:218.241.108.59
+2012-10-19 10:47:55,546 [main] DEBUG resolver.NAPTRResolverImp(line:71) 0     - serviceType:NS
+2012-10-19 10:47:55,750 [main] DEBUG resolver.NAPTRResolverImp(line:111) 204   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-10-19 10:47:55,750 [main] DEBUG resolver.NAPTRResolverImp(line:113) 204   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "NS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-10-19 10:47:55,750 [main] DEBUG resolver.ResolverImp(line:246) 204   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350614875765
+2012-10-19 10:47:55,750 [main] DEBUG resolver.ResolverImp(line:296) 204   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350614875765
+2012-10-19 10:47:55,750 [main] DEBUG resolver.FindResolver(line:92) 204   - 9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:47:55,750 [main] DEBUG resolver.NAPTRResolverImp(line:69) 204   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:47:55,750 [main] DEBUG resolver.NAPTRResolverImp(line:70) 204   - addr:218.241.108.63
+2012-10-19 10:47:55,750 [main] DEBUG resolver.NAPTRResolverImp(line:71) 204   - serviceType:DS
+2012-10-19 10:47:55,765 [main] DEBUG resolver.NAPTRResolverImp(line:111) 219   - TTL:36000
+Regexp%21%5E.*%24%21http%3A%2F%2Fwww.baidu.com%21
+2012-10-19 10:47:55,765 [main] DEBUG resolver.NAPTRResolverImp(line:113) 219   - after filtering:
+[]
+2012-10-19 10:47:55,765 [main] ERROR resolver.NAPTRResolverImp(line:117) 219   - happens in resolver_getNAPTRRecords method when get NAPTRRecods.
+	Host has none of the specified attributes [DS] for the domain name [9148909.549267.10008.epc.tnsroot.cn]
+2012-10-19 10:47:55,765 [main] DEBUG test.TestExtendResolver(line:28) 219   - []
+2012-10-19 10:49:11,593 [main] DEBUG resolver.ResolverImp(line:293) 0     - 65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:49:11,593 [main] DEBUG resolver.NAPTRResolverImp(line:69) 0     - name:65544.156.16.2.oid.tnsroot.cn
+2012-10-19 10:49:11,593 [main] DEBUG resolver.NAPTRResolverImp(line:70) 0     - addr:218.241.108.59
+2012-10-19 10:49:11,593 [main] DEBUG resolver.NAPTRResolverImp(line:71) 0     - serviceType:NS
+2012-10-19 10:49:11,796 [main] DEBUG resolver.NAPTRResolverImp(line:111) 203   - TTL:15
+Regexp!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!
+2012-10-19 10:49:11,796 [main] DEBUG resolver.NAPTRResolverImp(line:113) 203   - after filtering:
+[65544.156.16.2.oid.tnsroot.cn.	15	IN	NAPTR	0 0 "u" "NS" "!^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn!" .]
+2012-10-19 10:49:11,796 [main] DEBUG resolver.ResolverImp(line:246) 203   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350614951811
+2012-10-19 10:49:11,796 [main] DEBUG resolver.ResolverImp(line:296) 203   - !^.{8}.{8}.{4}(.{20})(.{24})!$2.$1.10008.epc.tnsroot.cn! 1350614951811
+2012-10-19 10:49:11,796 [main] DEBUG resolver.ResolverImp(line:264) 203   - 9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:49:11,796 [main] DEBUG resolver.NAPTRResolverImp(line:69) 203   - name:9148909.549267.10008.epc.tnsroot.cn
+2012-10-19 10:49:11,796 [main] DEBUG resolver.NAPTRResolverImp(line:70) 203   - addr:218.241.108.63
+2012-10-19 10:49:11,796 [main] DEBUG resolver.NAPTRResolverImp(line:71) 203   - serviceType:NS
+2012-10-19 10:49:11,812 [main] DEBUG resolver.NAPTRResolverImp(line:111) 219   - TTL:36000
+Regexp%21%5E.*%24%21http%3A%2F%2Fwww.baidu.com%21
+2012-10-19 10:49:11,812 [main] DEBUG resolver.NAPTRResolverImp(line:113) 219   - after filtering:
+[9148909.549267.10008.epc.tnsroot.cn.	36000	IN	NAPTR	0 0 "u" "NS" "%21%5E.*%24%21http%3A%2F%2Fwww.baidu.com%21" .]
+2012-10-19 10:49:11,812 [main] DEBUG resolver.ResolverImp(line:177) 219   - !^.*$!http://www.baidu.com!
+2012-10-19 10:49:11,812 [main] DEBUG resolver.ResolverImp(line:268) 219   - http://www.baidu.com 1350614951811
